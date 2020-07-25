@@ -1,10 +1,6 @@
 # angular-add-bootstrap
-
-
 ![img](Screenshot_2.png)
-
 ~~~
-
 ## Create a new application
 ng new AngularDemo
 
