@@ -19,9 +19,6 @@
 ## Create a new application
 ng new AngularDemo
 
-## Add bootstrap to angular using command
-yarn add bootstrap@3.3.7 --save
-
 
 ## add bootstrap to classpath inside angular.json
 ------------------
@@ -29,6 +26,11 @@ yarn add bootstrap@3.3.7 --save
               "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ]
+
+
+
+## If bootstrap not available inside node_modules you can add bootstrap using command
+yarn add bootstrap@3.3.7 --save
 
 
 
